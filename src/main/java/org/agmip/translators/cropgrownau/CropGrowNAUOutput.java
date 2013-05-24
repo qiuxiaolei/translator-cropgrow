@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.agmip.translator.acmo.translator.cropgrow;
+package org.agmip.translators.cropgrownau;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -18,8 +18,8 @@ import org.slf4j.LoggerFactory;
  *
  * @author qiuxiaolei
  */
-public class CropGrowOutput  implements TranslatorOutput {
-    private static final Logger log = LoggerFactory.getLogger(CropGrowOutput.class);
+public class CropGrowNAUOutput  implements TranslatorOutput {
+    private static final Logger log = LoggerFactory.getLogger(CropGrowNAUOutput.class);
     
     @SuppressWarnings({ "unchecked", "rawtypes" })
     @Override

@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.agmip.translator.acmo</groupId>
-  <artifactId>translator-cropgrow</artifactId>
+  <groupId>org.agmip.translators</groupId>
+  <artifactId>translator-cropgrow-nau</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>translator-cropgrow</name>
+  <name>translator-cropgrow-nau</name>
   <url>http://maven.apache.org</url>
 
   <properties>
